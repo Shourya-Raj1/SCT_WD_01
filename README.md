@@ -1,11 +1,5 @@
 # SCT_WD_01
-Since this is for **GitHub**, the description needs to be clear, technical, and structured so that anyone visiting your profile can immediately understand your technical stack and the logic behind your code.
 
-Here is a professional, "classic" GitHub README structure that is fully responsive (looks great on mobile and desktop).
-
----
-
-# 🚀 Task 01: Responsive Landing Page with Interactive Navigation
 
 ## 📌 Project Overview
 
